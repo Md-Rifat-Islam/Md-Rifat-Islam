@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Md-Rifat-Islam
+- 👋 Hi, I’m @Muhammad-Rifat-Islam
 - 👀 I’m interested in DataBase, Cloud Computing, AI
 - 🌱 I’m currently learning Python, Javascript, and Machine Learning
 - 💞️ I’m not looking to collaborate for now

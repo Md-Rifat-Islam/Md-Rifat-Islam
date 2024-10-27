@@ -42,13 +42,13 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
+<!--
 ## ⚡ Activity
 
 [![Muhammad Rifat Islam's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Md-Rifat-Islam&theme=react-dark&area=true&hide_border=true)](https://github.com/Md-Rifat-Islam)
 
 ---
-
+-->
 ## 📈 My GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Rifat-Islam&show_icons=true&theme=radical)
@@ -68,18 +68,18 @@
 [![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Islam&layout=compact&theme=radical)](https://github.com/Md-Rifat-Islam)
 
 ---
-
+<!--
 ## 🏆 Achievements:
 
 ![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)
 ![Daily.dev](https://img.shields.io/badge/-Daily.dev-000000?style=flat-square&logo=daily.dev&logoColor=white)
 
 ---
-
+-->
 ## 👨‍💻 Contact:
 
-- **Email**: [your-email@gmail.com](mailto:rifat010bushra@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/))
+- **Email**: [Muhammad Rifat Islam](mailto:rifat010bushra@gmail.com)
+- **LinkedIn**: [Muhammad Rifat Islam]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/))
 
 ---
 

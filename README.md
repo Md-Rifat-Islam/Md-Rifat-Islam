@@ -16,17 +16,21 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=ethereum&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Backend:**
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Database:**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **AI/ML & NLP:**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -42,6 +46,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+
 <!--
 ## ⚡ Activity
 
@@ -49,6 +54,7 @@
 
 ---
 -->
+
 ## 📈 My GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Rifat-Islam&show_icons=true&theme=radical)
@@ -68,6 +74,7 @@
 [![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Islam&layout=compact&theme=radical)](https://github.com/Md-Rifat-Islam)
 
 ---
+
 <!--
 ## 🏆 Achievements:
 
@@ -76,10 +83,11 @@
 
 ---
 -->
+
 ## 👨‍💻 Contact:
 
 - **Email**: [Muhammad Rifat Islam](mailto:rifat010bushra@gmail.com)
-- **LinkedIn**: [Muhammad Rifat Islam]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/))
+- **LinkedIn**: [Muhammad Rifat Islam](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/)
 
 ---
 

@@ -1,5 +1,5 @@
 # 🌐 My Website / Additional Links:
-[![Portfolio](https://img.shields.io/badge/-Personal%20Site-blue?style=flat-square&logo=google-chrome)](https://rifat-portfolio-2jvt.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome)](https://rifat-portfolio-2jvt.vercel.app/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22761098/md-rifat-islam)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/)
 [![AskUbuntu](https://img.shields.io/badge/-Ask%20Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white)](https://askubuntu.com/users/2040546/md-rifat-islam)
@@ -11,13 +11,18 @@
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=ethereum&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+[![Networking](https://img.shields.io/badge/-Networking-0078D7?style=flat-square&logo=cisco&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
+
+**Frontend:**
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 **Backend:**
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -47,6 +52,10 @@
 **Other Tools:**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
 
 ---
 

@@ -1,8 +1,8 @@
-# 🌐 My Personal Website / Additional Links:
-[![Personal Site](https://img.shields.io/badge/-Personal%20Site-blue?style=flat-square&logo=google-chrome)](https://rifat-portfolio-q8tz-3g5zlixjr-muhammad-rifat-islams-projects.vercel.app/?vercelToolbarCode=X88FWDRBSlPeFG5)
-<!--[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-id)-->
+# 🌐 My Website / Additional Links:
+[![Portfolio](https://img.shields.io/badge/-Personal%20Site-blue?style=flat-square&logo=google-chrome)](https://rifat-portfolio-2jvt.vercel.app/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22761098/md-rifat-islam)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/)
-<!--[![AskUbuntu](https://img.shields.io/badge/-Ask%20Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white)](https://askubuntu.com/users/your-id)-->
+[![AskUbuntu](https://img.shields.io/badge/-Ask%20Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white)](https://askubuntu.com/users/2040546/md-rifat-islam)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rifat010bushral@gmail.com)
 
 ---

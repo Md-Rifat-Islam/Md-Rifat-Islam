@@ -1,88 +1,94 @@
 <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+Coders+👋;+I'm+Sk+Sanju!;+Data+Analyst+%26+Full+Stack+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+Coders+👋;+I'm+Muhammad+Rifat+Islam!;+Software+Engineer+%26+AI+Dev" />
 </h1>
-
-<p align="center">
-  <img src="https://github.com/sk-sanju/sk-sanju/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation" />
-</p>
 
 ---
 
-## 🚀 Professional Overview
+## 🚀 About Me
 
 <table>
 <tr>
 <td width="65%">
 
-### 📊 Passionate Data Analyst from India
-🔍 **Specialization:** Data Cleaning, ETL, BI, and Visual Storytelling.  
-📈 **Tech Stack:** Power BI, SQL, Excel, and Python.  
-🛠️ **Current Focus:** Upskilling in **Advanced Python** & **Full Stack Development**.  
-💡 **Philosophy:** Turning raw data into actionable business intelligence and building seamless digital experiences.
+🎯 *Software Engineer | AI & Full-Stack Developer | Flutter Enthusiast*  
+
+🚀 Passionate about building **scalable applications**, **AI-powered systems**, and **meaningful digital experiences**.  
+
+💡 I turn ideas into intelligent, user-focused products.
 
 <br/>
 
-<div> 
-  <a href="mailto:sanjayskpy1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<div>
+  <a href="https://rifat-portfolio-2jvt.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sanjay-sk953925" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://stackoverflow.com/users/22761098/md-rifat-islam">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://sk-sanju.github.io/Sanjay/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://askubuntu.com/users/2040546/md-rifat-islam">
+    <img src="https://img.shields.io/badge/-Ask%20Ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </a>
+  <a href="mailto:muhammad.rifat.islam31@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 </td>
 <td width="35%" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm56ZzRyc3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Data Analysis GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm56ZzRyc3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
-### **Data Intelligence**
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+### **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,js,react,nextjs,tailwind,bootstrap,solidity" />
 
-### **Development Ecosystem**
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode,html,css,js,react,tailwind,nodejs" />
+### **Backend & APIs**
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,php,nodejs" />
+
+### **Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,oracle" />
+
+### **AI / ML / NLP**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,spacy" />
+
+### **Other Tools**
+<img src="https://skillicons.dev/icons?i=linux,vscode,matlab,blender,androidstudio,github" />
 
 ---
 
-## 🏆 Achievements & Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sk-sanju&theme=midnight-purple&column=7&margin-w=15" />
+<img src="https://github-readme-stats.vercel.app/api?username=Md-Rifat-Islam&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Islam&layout=compact&theme=radical" width="48%" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-sanju&show_icons=true&locale=en&layout=compact&theme=midnight-purple" width="400px" alt="Top Languages"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=sk-sanju&show_icons=true&theme=midnight-purple" width="400px" alt="GitHub Stats"/></td>
-  </tr>
-</table>
+<!-- Optional Activity Graph -->
+<!-- <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Rifat-Islam&theme=react-dark&hide_border=true" width="100%" />
+</p> -->
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sk-sanju&theme=midnight-purple" width="100%">
-</p>
+---
 
-### 📈 Weekly Contribution Graph
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-sanju&theme=midnight-purple" alt="GitHub Activity Graph" width="100%"/>
-</p>
+## 👨‍💻 Contact
+
+📧 [Email Me](mailto:muhammad.rifat.islam31@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/)  
+🌐 [Portfolio](https://rifat-portfolio-2jvt.vercel.app/)
 
 ---
 
 <div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
-  <p><i>"Data is the new oil, but only if you know how to refine it."</i></p>
+<img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+<p><i>"Code with purpose. Learn endlessly. Build things that matter."</i></p>
 </div>

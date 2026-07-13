@@ -66,28 +66,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Md-Rifat-Islam&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Islam&layout=compact&theme=radical" width="48%" />
-</p>
-
-<!-- Optional Activity Graph -->
-<!-- <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Rifat-Islam&theme=react-dark&hide_border=true" width="100%" />
-</p> -->
-
----
-
-## 👨‍💻 Contact
-
-📧 [Email Me](mailto:muhammad.rifat.islam31@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/)  
-🌐 [Portfolio](https://rifat-portfolio-2jvt.vercel.app/)
-
----
-
 <div align="center">
 <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 <p><i>"Code with purpose. Learn endlessly. Build things that matter."</i></p>
